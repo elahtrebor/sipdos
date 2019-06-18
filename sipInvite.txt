@@ -1,0 +1,15 @@
+INVITE sip:sipdos@192.168.5.58 SIP/2.0
+Via: SIP/2.0/UDP 192.168.1.9;branch=z9hG4bKfae8cb69f547b8cb
+Max-Forwards: 70
+To: <sip:guest@192.168.1.15>
+From: <sip:sipdos@192.168.1.15>;tag=102
+User-Agent: sipdos test message
+Call-ID: 070403-200101@192.168.1.9
+CSeq: 5000 INVITE
+Contact: <sip:sipdos@192.168.5.58>
+Content-Type: application/sdp
+Content-Length: 0
+
+
+
+

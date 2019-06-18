@@ -1,0 +1,19 @@
+REGISTER sip:122.49.6.30:5060 SIP/2.0
+Via: SIP/2.0/UDP 122.49.6.30;branch=z9hG4bKa4c6495f8
+To: death <sip:6000 at 172.168.0.100:5060>
+From: death <sip:6000 at 122.49.6.30:5060>;tag=e154d164425d784
+Call-ID: a917df615b074b81ea2ec43580799f6e@122.49.6.30
+CSeq: 1219791964 REGISTER
+Contact: death <sip:6000@122.49.6.30>;expires=660
+Allow: NOTIFY
+Allow: REFER
+Allow: OPTIONS
+Allow: INVITE
+Allow: ACK
+Allow: CANCEL
+Allow: BYE
+Content-Length: 0
+User-Agent: sipdos/1.5.0.0 MxSF/v3.2.5.20
+
+
+
