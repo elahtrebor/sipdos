@@ -1,9 +1,12 @@
 # sipdos
-SIPDOS - Developed by rhale 
+SIPDOS - Developed by rhale
+
 Release: FEB 2006
+
 Purpose: Security Testing for various voip devices.
 
 LICENSE: This program suite is completely free
+
 
 Installation:
 
